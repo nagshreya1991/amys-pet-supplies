@@ -1,0 +1,12 @@
+[20-Apr-2021 21:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php on line 16
+[21-Apr-2021 11:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php on line 16
+[21-Apr-2021 14:12:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ferlu218j2tx/public_html/amyspetsupplies.co.uk/wp-content/themes/amys-pet-supplies/index.php on line 16
